@@ -1,4 +1,4 @@
-﻿* [./](./Tolkien/README.md)
+﻿[<<](../README.md)
 
 ###首页专栏
 
