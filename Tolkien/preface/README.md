@@ -39,11 +39,12 @@
                 "userId": 100001，
                 "nickName":"小时候"，
                 "fridens":[100002,100003]
-        }
- }
+			  }
+  }
 ```
 
 * 字段说明
     * timestamp:服务器时间戳，数据类型：long
     * code：返回状态码，数据类型：int
     * result：具体接口的返回值
+	* 注意：在后面具体接口的文档中，将直接给出result的值。timestamp和code省略。
